@@ -22,6 +22,7 @@ namespace RPRITB32023
             int x = 10;
             int y = 10;
             int z = 0;
+            int vysledek = (x + y + z) / int.Parse(textBox1.Text);
         }
     }
 }
