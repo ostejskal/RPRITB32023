@@ -16,5 +16,12 @@ namespace RPRITB32023
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int x = 10;
+            int y = 10;
+            int z = 0;
+        }
     }
 }
